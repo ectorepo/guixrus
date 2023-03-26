@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest>
+  <include name="_remotes.xml"/>
+  <default remote="srht_whereiseveryone" sync-j="8" revision="refs/heads/master"/>
+  <project path="guixrus" name="guixrus"/>
+  <project path="guixrus-scripts" name="guixrus-scripts"/>
+  <project path="toys" name="toys"/>
+  <project path="wiki" name="wiki"/>
+  <project path="builds.sr.ht-guix" name="builds.sr.ht-guix"/>
+</manifest>

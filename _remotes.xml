@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest>
+  <remote name="bitbucket" fetch="https://bitbucket.org"/>
+  <remote name="blender" fetch="https://git.blender.org"/>
+  <remote name="dthompson" fetch="https://git.dthompson.us"/>
+  <remote name="framagit" fetch="https://framagit.org"/>
+  <remote name="freebsd" fetch="https://git.freebsd.org"/>
+  <remote name="freedesktop" fetch="https://gitlab.freedesktop.org"/>
+  <remote name="github" fetch="https://github.com"/>
+  <remote name="gitlab" fetch="https://gitlab.com"/>
+  <remote name="googlesource" fetch="https://gerrit.googlesource.com"/>
+  <remote name="guix_bioinformatics" fetch="https://git.genenetwork.org"/>
+  <remote name="kernel" fetch="https://git.kernel.org/pub/scm"/>
+  <remote name="phundrak" fetch="https://labs.phundrak.com"/>
+  <remote name="opencascade" fetch="https://git.dev.opencascade.org/repos"/>
+  <remote name="savannah" fetch="https://git.savannah.gnu.org/git"/>
+  <remote name="sourceware" fetch="https://sourceware.org/git"/>
+  <remote name="srht_abcdw" fetch="https://git.sr.ht/~abcdw"/>
+  <remote name="srht_akagi" fetch="https://git.sr.ht/~akagi"/>
+  <remote name="srht_krevedkokun" fetch="https://git.sr.ht/~krevedkokun"/>
+  <remote name="srht_michal_atlas" fetch="https://git.sr.ht/~michal_atlas"/>
+  <remote name="srht_plattfot" fetch="https://git.sr.ht/~plattfot"/>
+  <remote name="srht_sircmpwn" fetch="https://git.sr.ht/~sircmpwn"/>
+  <remote name="srht_whereiseveryone" fetch="https://git.sr.ht/~whereiseveryone"/>
+  <remote name="trees_st" fetch="https://git.trees.st"/>
+</manifest>
