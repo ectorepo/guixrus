@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest>
   <remote name="bitbucket" fetch="https://bitbucket.org"/>
-  <remote name="blender" fetch="https://git.blender.org"/>
+  <remote name="blender" fetch="https://projects.blender.org/blender"/>
   <remote name="codeberg" fetch="https://codeberg.org"/>
   <remote name="dthompson" fetch="https://git.dthompson.us"/>
   <remote name="framagit" fetch="https://framagit.org"/>
