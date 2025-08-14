@@ -3,6 +3,7 @@
   <remote name="bitbucket" fetch="https://bitbucket.org"/>
   <remote name="blender" fetch="https://projects.blender.org/blender"/>
   <remote name="codeberg" fetch="https://codeberg.org"/>
+  <remote name="disroot" fetch="https://git.disroot.org"/>
   <remote name="dthompson" fetch="https://git.dthompson.us"/>
   <remote name="elephly" fetch="https://git.elephly.net/software"/>
   <remote name="framagit" fetch="https://framagit.org"/>
@@ -20,6 +21,7 @@
   <remote name="pantherx" fetch="https://git.pantherx.org"/>
   <remote name="pantherxchannel" fetch="https://channels.pantherx.org/git"/>
   <remote name="phundrak" fetch="https://labs.phundrak.com"/>
+  <remote name="proot" fetch="https://git.proot.pl"/>
   <remote name="salsa" fetch="https://salsa.debian.org"/>
   <remote name="savannah" fetch="https://git.savannah.gnu.org/git"/>
   <remote name="savannah_nongnu" fetch="https://git.savannah.nongnu.org/git"/>
