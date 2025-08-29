@@ -35,6 +35,7 @@
   <remote name="srht_oriansj" fetch="https://git.sr.ht/~oriansj"/>
   <remote name="srht_plattfot" fetch="https://git.sr.ht/~plattfot"/>
   <remote name="srht_sircmpwn" fetch="https://git.sr.ht/~sircmpwn"/>
+  <remote name="srht_simendsjo" fetch="https://git.sr.ht/~simendsjo"/>
   <remote name="srht_whereiseveryone" fetch="https://git.sr.ht/~whereiseveryone"/>
   <remote name="trees_st" fetch="https://git.trees.st"/>
   <remote name="wasamasa" fetch="https://depp.brause.cc"/>
