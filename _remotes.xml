@@ -25,6 +25,7 @@
   <remote name="salsa" fetch="https://salsa.debian.org"/>
   <remote name="savannah" fetch="https://git.savannah.gnu.org/git"/>
   <remote name="savannah_nongnu" fetch="https://git.savannah.nongnu.org/git"/>
+  <remote name="sintef" fetch="https://gitlab.sintef.no"/>
   <remote name="sourceware" fetch="https://sourceware.org/git"/>
   <remote name="srht_abcdw" fetch="https://git.sr.ht/~abcdw"/>
   <remote name="srht_akagi" fetch="https://git.sr.ht/~akagi"/>
