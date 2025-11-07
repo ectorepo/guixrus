@@ -2,6 +2,6 @@
 #+AUTHOR:    David Conner
 #+EMAIL:     noreply@te.xel.io
 #+DESCRIPTION: notes
-#+PROPERTY: header-args :comments none
+#+PROPERTY: header-args+ :comments none
 
 Repos for the guixrus channel and project
