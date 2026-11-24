@@ -3,6 +3,8 @@
   <remote name="bitbucket" fetch="https://bitbucket.org"/>
   <remote name="blender" fetch="https://projects.blender.org"/>
   <remote name="codeberg" fetch="https://codeberg.org"/>
+  <remote name="ccc_muc" fetch="https://git.muc.ccc.de/"/>
+  <remote name="ccc_hamburg" fetch="https://git.hamburg.ccc.de/"/>
   <remote name="disroot" fetch="https://git.disroot.org"/>
   <remote name="dthompson" fetch="https://git.dthompson.us"/>
   <remote name="elephly" fetch="https://git.elephly.net/software"/>
